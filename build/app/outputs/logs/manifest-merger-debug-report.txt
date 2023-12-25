@@ -1,0 +1,253 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:3:5-33:19
+MERGED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dheer\.gradle\caches\transforms-3\27b7a7f3f63cd630c30882420b2f4916\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dheer\.gradle\caches\transforms-3\27b7a7f3f63cd630c30882420b2f4916\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:just_audio] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\wakelock_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\79d1204a7cbc4f2f7f993f1666237dca\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dheer\.gradle\caches\transforms-3\4e68667c46d64491ef1961e18cc26443\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\39cee66d2bb53a2e725b4f8b9df28b59\transformed\jetified-exoplayer-dash-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\172d0b47ad04252280fb7b0e13645f3a\transformed\jetified-exoplayer-hls-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\9ac05aa3cb1e18eaea8ea6144442a8d1\transformed\jetified-exoplayer-smoothstreaming-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\121439ff7b7ab7aec6e9dc904737fe70\transformed\jetified-exoplayer-core-2.18.7\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\dheer\.gradle\caches\transforms-3\39833b16a49a71929bf780c3f95ebfa2\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\dheer\.gradle\caches\transforms-3\c4f4e9e93046d35da1dd590593401db4\transformed\webkit-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dheer\.gradle\caches\transforms-3\79af6d4e0aa7c0d995b0004ab16d83d1\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media2:media2-common:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\b64cbba0dc4307e7636b2663da9706bb\transformed\jetified-media2-common-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\316258a8f2c583226e4f02622ceefd85\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\5b0a00b6d646de6c013450ca830081c3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\a5b2b69929c7dc56f33c6c43eba88933\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.1] C:\Users\dheer\.gradle\caches\transforms-3\fa688e3a9f7e70bd3e08365f73d0a085\transformed\media-1.4.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\8fc2d3fa5a6200a16b84b7dac7f30902\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dheer\.gradle\caches\transforms-3\6ccbe628ff55214799906596114cb282\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\46bf514fb355ebc0cf39409b684c4893\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c9d3d50f154e6c3b0790ed75cb1646b2\transformed\jetified-exoplayer-datasource-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\b264b1e1a6443bd5e40457618a3117e0\transformed\jetified-exoplayer-extractor-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c66ea84f6b59f66f5e6d769a31538a9a\transformed\jetified-exoplayer-decoder-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\afd38e2047f8c841a549c58c9b8bbd28\transformed\jetified-exoplayer-database-2.18.7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c1b8f86a094df910fea9f581bd5589e0\transformed\jetified-exoplayer-common-2.18.7\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dheer\.gradle\caches\transforms-3\7ddf2bd7b1a16a0fcbd3f6c2b7e13d71\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\6c238b81aaece6cbba4c57927500a6a8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dheer\.gradle\caches\transforms-3\27b7a7f3f63cd630c30882420b2f4916\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\d24269e9a1f4c0fdc16175e0e75faf70\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\f05ee8b74199e9f0912f7c930ca62dfe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\ea710116ddb517360c9d48e93896af03\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\25e7f3b7a88d0955e91fbb6f16a68e4f\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\72e2ba5c3dd25beda48a5d1b3ddf1b2f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:2:5-66
+MERGED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:2:5-66
+MERGED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml:2:22-64
+uses-sdk
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:just_audio] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:just_audio] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\wakelock_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\wakelock_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\package_info_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\video_player_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\webview_flutter_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\79d1204a7cbc4f2f7f993f1666237dca\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\79d1204a7cbc4f2f7f993f1666237dca\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dheer\.gradle\caches\transforms-3\4e68667c46d64491ef1961e18cc26443\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dheer\.gradle\caches\transforms-3\4e68667c46d64491ef1961e18cc26443\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\39cee66d2bb53a2e725b4f8b9df28b59\transformed\jetified-exoplayer-dash-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\39cee66d2bb53a2e725b4f8b9df28b59\transformed\jetified-exoplayer-dash-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\172d0b47ad04252280fb7b0e13645f3a\transformed\jetified-exoplayer-hls-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\172d0b47ad04252280fb7b0e13645f3a\transformed\jetified-exoplayer-hls-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\9ac05aa3cb1e18eaea8ea6144442a8d1\transformed\jetified-exoplayer-smoothstreaming-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\9ac05aa3cb1e18eaea8ea6144442a8d1\transformed\jetified-exoplayer-smoothstreaming-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\121439ff7b7ab7aec6e9dc904737fe70\transformed\jetified-exoplayer-core-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\121439ff7b7ab7aec6e9dc904737fe70\transformed\jetified-exoplayer-core-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\dheer\.gradle\caches\transforms-3\39833b16a49a71929bf780c3f95ebfa2\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\dheer\.gradle\caches\transforms-3\39833b16a49a71929bf780c3f95ebfa2\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\dheer\.gradle\caches\transforms-3\c4f4e9e93046d35da1dd590593401db4\transformed\webkit-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.7.0] C:\Users\dheer\.gradle\caches\transforms-3\c4f4e9e93046d35da1dd590593401db4\transformed\webkit-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dheer\.gradle\caches\transforms-3\79af6d4e0aa7c0d995b0004ab16d83d1\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dheer\.gradle\caches\transforms-3\79af6d4e0aa7c0d995b0004ab16d83d1\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\b64cbba0dc4307e7636b2663da9706bb\transformed\jetified-media2-common-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\b64cbba0dc4307e7636b2663da9706bb\transformed\jetified-media2-common-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\316258a8f2c583226e4f02622ceefd85\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\316258a8f2c583226e4f02622ceefd85\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\5b0a00b6d646de6c013450ca830081c3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\5b0a00b6d646de6c013450ca830081c3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\a5b2b69929c7dc56f33c6c43eba88933\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\a5b2b69929c7dc56f33c6c43eba88933\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] C:\Users\dheer\.gradle\caches\transforms-3\fa688e3a9f7e70bd3e08365f73d0a085\transformed\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] C:\Users\dheer\.gradle\caches\transforms-3\fa688e3a9f7e70bd3e08365f73d0a085\transformed\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\8fc2d3fa5a6200a16b84b7dac7f30902\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\8fc2d3fa5a6200a16b84b7dac7f30902\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dheer\.gradle\caches\transforms-3\6ccbe628ff55214799906596114cb282\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\dheer\.gradle\caches\transforms-3\6ccbe628ff55214799906596114cb282\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\46bf514fb355ebc0cf39409b684c4893\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\46bf514fb355ebc0cf39409b684c4893\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c9d3d50f154e6c3b0790ed75cb1646b2\transformed\jetified-exoplayer-datasource-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c9d3d50f154e6c3b0790ed75cb1646b2\transformed\jetified-exoplayer-datasource-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\b264b1e1a6443bd5e40457618a3117e0\transformed\jetified-exoplayer-extractor-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\b264b1e1a6443bd5e40457618a3117e0\transformed\jetified-exoplayer-extractor-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c66ea84f6b59f66f5e6d769a31538a9a\transformed\jetified-exoplayer-decoder-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c66ea84f6b59f66f5e6d769a31538a9a\transformed\jetified-exoplayer-decoder-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\afd38e2047f8c841a549c58c9b8bbd28\transformed\jetified-exoplayer-database-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\afd38e2047f8c841a549c58c9b8bbd28\transformed\jetified-exoplayer-database-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c1b8f86a094df910fea9f581bd5589e0\transformed\jetified-exoplayer-common-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c1b8f86a094df910fea9f581bd5589e0\transformed\jetified-exoplayer-common-2.18.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dheer\.gradle\caches\transforms-3\7ddf2bd7b1a16a0fcbd3f6c2b7e13d71\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dheer\.gradle\caches\transforms-3\7ddf2bd7b1a16a0fcbd3f6c2b7e13d71\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\6c238b81aaece6cbba4c57927500a6a8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\6c238b81aaece6cbba4c57927500a6a8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dheer\.gradle\caches\transforms-3\27b7a7f3f63cd630c30882420b2f4916\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dheer\.gradle\caches\transforms-3\27b7a7f3f63cd630c30882420b2f4916\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\d24269e9a1f4c0fdc16175e0e75faf70\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dheer\.gradle\caches\transforms-3\d24269e9a1f4c0fdc16175e0e75faf70\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\f05ee8b74199e9f0912f7c930ca62dfe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\f05ee8b74199e9f0912f7c930ca62dfe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\ea710116ddb517360c9d48e93896af03\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dheer\.gradle\caches\transforms-3\ea710116ddb517360c9d48e93896af03\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\25e7f3b7a88d0955e91fbb6f16a68e4f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\25e7f3b7a88d0955e91fbb6f16a68e4f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\72e2ba5c3dd25beda48a5d1b3ddf1b2f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dheer\.gradle\caches\transforms-3\72e2ba5c3dd25beda48a5d1b3ddf1b2f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\android\app\src\debug\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\dheer\Downloads\aakriti_intelligence-main\aakriti_intelligence-main\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dheer\.gradle\caches\transforms-3\d943c78a6995a024f7a7534709dfc0f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\121439ff7b7ab7aec6e9dc904737fe70\transformed\jetified-exoplayer-core-2.18.7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c1b8f86a094df910fea9f581bd5589e0\transformed\jetified-exoplayer-common-2.18.7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\c1b8f86a094df910fea9f581bd5589e0\transformed\jetified-exoplayer-common-2.18.7\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.7] C:\Users\dheer\.gradle\caches\transforms-3\121439ff7b7ab7aec6e9dc904737fe70\transformed\jetified-exoplayer-core-2.18.7\AndroidManifest.xml:24:22-76
+queries
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:24:5-34:15
+MERGED from [androidx.media:media:1.4.1] C:\Users\dheer\.gradle\caches\transforms-3\fa688e3a9f7e70bd3e08365f73d0a085\transformed\media-1.4.1\AndroidManifest.xml:24:5-28:15
+MERGED from [androidx.media:media:1.4.1] C:\Users\dheer\.gradle\caches\transforms-3\fa688e3a9f7e70bd3e08365f73d0a085\transformed\media-1.4.1\AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:26:21-76
+intent#action:name:androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:28:9-30:18
+action#androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:29:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:29:21-79
+intent#action:name:androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:31:9-33:18
+action#androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:32:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.1] C:\Users\dheer\.gradle\caches\transforms-3\e8d798c4763856c02339be1572573ed2\transformed\jetified-media2-session-1.2.1\AndroidManifest.xml:32:21-79
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.example.aakriti_inteligence.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.aakriti_inteligence.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\dheer\.gradle\caches\transforms-3\cd4004a5a8de6d0562a63088cfc87de7\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
